@@ -1,0 +1,11 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"验证全字段合法输入时，地址是否能成功保存并展示在列表中","4634","正常添加地址成功流程","tests","2026-03-15","passed","2026-03-15","TestAddress","test_address","",""
+"
+        验证全链路搜索流程：
+        从首页搜索入口跳转，在搜索页提交关键词，并校验结果列表的准确性
+        ","1448","通过首页入口执行关键词精准搜索","tests","2026-03-15","passed","2026-03-15","TestSearch","test_search","",""
+"验证非法输入或错误凭证下的系统反馈机制","1181","登录异常场景校验: user123","tests","2026-03-15","passed","2026-03-15","TestLogin","test_login","",""
+"测试不同非法输入场景下的表单字段校验逻辑","2620","新增地址异常校验","tests","2026-03-15","passed","2026-03-15","TestAddress","test_address","",""
+"验证非法输入或错误凭证下的系统反馈机制","1177","登录异常场景校验: ","tests","2026-03-15","passed","2026-03-15","TestLogin","test_login","",""
+"测试不同非法输入场景下的表单字段校验逻辑","2748","新增地址异常校验","tests","2026-03-15","passed","2026-03-15","TestAddress","test_address","",""
+"验证使用合法凭证登录后的页面跳转逻辑","1148","账号密码正确 - 正常登录验证","tests","2026-03-15","passed","2026-03-15","TestLogin","test_login","",""
